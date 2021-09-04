@@ -4,6 +4,7 @@ Greetings,
 - 🌱 I’m currently learning about ethics behind analytical models and discussing possible bias issues within models
 - 💞️ On my own time I am currenty learning how Excel can run all sorts of analytical models and broadening my SQL knowledge 
 - 📫 How to reach me rogersj4@spu.edu
+- Look below to see my recent projects!!!
 
 
 
